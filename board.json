@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "id": "raspberry-pi-5",
+  "name": "Raspberry Pi 5",
+  "soc": "Broadcom BCM2712 / RP1",
+  "profiles": {"raspberry-pi-os-arm64": "profiles/raspberry-pi-os-arm64.json"},
+  "documentation": "README.md"
+}
